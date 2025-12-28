@@ -1,4 +1,4 @@
-# Resilient Browser Automation for Multi-Step UX Flows
+# Resilient Browser Automation for UX Flows
 
 This repository contains a small, self-contained browser automation script written in vanilla JavaScript.
 
