@@ -6,7 +6,6 @@ The current implementation is **tested and validated on Instahyre**, where it se
 
 While the example implementation targets Instahyre’s UI, the **design patterns, safeguards, and approach are intentionally generic** and applicable to similar client-side automation problems.
 
----
 
 ## 🎯 Motivation
 
@@ -23,7 +22,6 @@ Instahyre’s job-application flow is a good real-world example of this class of
 
 This project explores how to build **resilient, user-controlled browser automation** for such flows without relying on heavy frameworks or headless automation.
 
----
 
 ## 🧠 Design Principles
 
@@ -44,7 +42,6 @@ This project is intentionally designed around:
 - **Resilience over fragility**  
   Text-based detection is preferred over brittle CSS-only selectors where possible.
 
----
 
 ## ⚙️ What This Script Does
 
@@ -59,7 +56,6 @@ In its current form (Instahyre case study), the script:
 
 All execution occurs **in-browser**, under direct user supervision.
 
----
 
 ## 🚀 Usage
 
